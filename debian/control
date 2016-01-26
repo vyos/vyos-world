@@ -1,0 +1,49 @@
+Source: vyos-world
+Section: contrib/net
+Priority: extra
+Maintainer: VyOS Package Maintainers <maintainers@vyos.net>
+Build-Depends: debhelper (>= 5)
+Standards-Version: 3.9.1
+
+Package: vyos-world
+Architecture: all
+Depends: vyatta-cfg-system,
+ vyatta-op,
+ vyatta-config-mgmt,
+ vyatta-config-migrate,
+ vyatta-util,
+ vyatta-cfg-dhcp-relay,
+ vyatta-op-dhcp-server,
+ vyatta-cfg-dhcp-server,
+ vyatta-cfg-firewall,
+ vyatta-op-firewall,
+ vyatta-cfg-op-pppoe,
+ vyatta-cfg-qos,
+ vyatta-op-qos,
+ vyatta-cfg-quagga,
+ vyatta-op-quagga,
+ vyatta-cfg-vpn,
+ vyatta-op-vpn,
+ vyatta-cluster,
+ vyatta-conntrack,
+ vyatta-conntrack-sync,
+ vyatta-cron,
+ vyatta-eventwatch,
+ vyatta-ipv6-rtradv,
+ vyatta-lldp,
+ vyatta-nat,
+ vyatta-netflow,
+ vyatta-openvpn,
+ vyatta-ravpn,
+ vyatta-vrrp,
+ vyatta-wanloadbalance,
+ vyatta-webgui,
+ vyatta-webproxy,
+ vyatta-wireless,
+ vyatta-wirelessmodem,
+ vyatta-zone,
+ vyos-nhrp,
+ vyos-pppoe-server,
+ ubnt-igmpproxy
+Description: VyOS metapackage
+ Installs everything required for VyOS to work

@@ -1,0 +1,6 @@
+vyos-world (1.0) unstable; urgency=low
+
+  * Created the metapackage
+
+ -- Daniil Baturin <daniil@baturin.org>  Tue, 26 Jan 2016 16:48:12 -0500
+
