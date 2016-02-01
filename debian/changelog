@@ -1,3 +1,9 @@
+vyos-world (1.0.1) UNRELEASED; urgency=medium
+
+  * Added dependency on grub2, until we find a better place for it.
+
+ --  <daniil@baturin.org>  Mon, 01 Feb 2016 07:02:52 -0500
+
 vyos-world (1.0) unstable; urgency=low
 
   * Created the metapackage
