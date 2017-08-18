@@ -1,3 +1,9 @@
+vyos-world (1.0.2) unstable; urgency=medium
+
+  * Added vyos-1x package to dependencies.
+
+ -- Daniil Baturin <daniil@baturin.org>  Thu, 17 Aug 2017 22:16:58 -0400
+
 vyos-world (1.0.1) UNRELEASED; urgency=medium
 
   * Added dependency on grub2, until we find a better place for it.
