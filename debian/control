@@ -44,6 +44,8 @@ Depends: vyatta-cfg-system,
  vyos-nhrp,
  vyos-pppoe-server,
  ubnt-igmpproxy,
- vyos-1x
+ vyos-1x,
+ vyos-cfg-avahi,
+ vyos-bcast-relay
 Description: VyOS metapackage
  Installs everything required for VyOS to work
