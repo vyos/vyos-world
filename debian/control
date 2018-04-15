@@ -46,6 +46,7 @@ Depends: vyatta-cfg-system,
  ubnt-igmpproxy,
  mdns-repeater,
  udp-broadcast-relay,
- vyos-1x
+ vyos-1x,
+ pdns-recursor
 Description: VyOS metapackage
  Installs everything required for VyOS to work
