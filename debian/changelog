@@ -1,3 +1,9 @@
+vyos-world (1.2.0-1) unstable; urgency=medium
+
+  * Remove vyatta-vrrp from dependencies.
+
+ -- Daniil Baturin <daniil@baturin.org>  Fri, 27 Jul 2018 10:23:49 +0200
+
 vyos-world (1.0.2) unstable; urgency=medium
 
   * Added vyos-1x package to dependencies.
