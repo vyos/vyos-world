@@ -1,3 +1,9 @@
+vyos-world (1.2.0-3) unstable; urgency=medium
+
+  * Remove dependency on vyatta-op-dhcp-server.
+
+ -- Daniil Baturin <daniil@baturin.org>  Tue, 04 Sep 2018 19:48:30 +0200
+
 vyos-world (1.2.0-2) unstable; urgency=medium
 
   * Replace Quagga with FRR.
