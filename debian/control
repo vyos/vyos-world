@@ -43,7 +43,6 @@ Depends: vyatta-cfg-system,
  mdns-repeater,
  udp-broadcast-relay,
  vyos-1x,
- pdns-recursor,
- frr (>=5.1)
+ pdns-recursor
 Description: VyOS metapackage
  Installs everything required for VyOS to work
