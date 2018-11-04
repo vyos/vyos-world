@@ -40,7 +40,6 @@ Depends: vyatta-cfg-system,
  vyos-pppoe-server,
  vyos-1x,
  vyos-accel-ppp,
- ubnt-igmpproxy,
  mdns-repeater,
  udp-broadcast-relay,
  pdns-recursor
