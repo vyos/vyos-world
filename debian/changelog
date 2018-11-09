@@ -1,3 +1,9 @@
+vyos-world (1.2.0-5) unstable; urgency=medium
+
+  * T742: Add accel-ppp as replacement for rp-pppoe
+
+ -- hagbard <vyosdev@derith.de>  Fri, 09 Nov 2018 09:43:45 -0800
+
 vyos-world (1.2.0-4) unstable; urgency=medium
 
   * T835: adding vyos-accel-ppp
