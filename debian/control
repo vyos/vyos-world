@@ -39,6 +39,7 @@ Depends: vyatta-cfg-system,
  vyos-nhrp,
  vyos-1x,
  vyos-accel-ppp,
+ vyos-salt-minion,
  mdns-repeater,
  udp-broadcast-relay,
  pdns-recursor
