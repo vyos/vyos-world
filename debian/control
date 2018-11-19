@@ -38,10 +38,6 @@ Depends: vyatta-cfg-system,
  vyatta-zone,
  vyos-nhrp,
  vyos-1x,
- vyos-accel-ppp,
- vyos-salt-minion,
- mdns-repeater,
- udp-broadcast-relay,
- pdns-recursor
+ vyos-salt-minion
 Description: VyOS metapackage
  Installs everything required for VyOS to work
