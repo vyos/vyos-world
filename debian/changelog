@@ -1,3 +1,9 @@
+vyos-world (1.2.0-6) unstable; urgency=medium
+
+  * vyos-xe-guest-utilities added
+
+ -- hagbard <vyosdev@derith.de>  Thu, 22 Nov 2018 12:16:26 -0800 
+
 vyos-world (1.2.0-5) unstable; urgency=medium
 
   * T742: Add accel-ppp as replacement for rp-pppoe

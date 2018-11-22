@@ -38,6 +38,7 @@ Depends: vyatta-cfg-system,
  vyatta-zone,
  vyos-nhrp,
  vyos-1x,
- vyos-salt-minion
+ vyos-salt-minion,
+ vyos-xe-guest-utilities
 Description: VyOS metapackage
  Installs everything required for VyOS to work
