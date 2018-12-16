@@ -1,3 +1,21 @@
+vyos-world (1.2.0-6) unstable; urgency=medium
+
+  * vyos-xe-guest-utilities added
+
+ -- hagbard <vyosdev@derith.de>  Thu, 22 Nov 2018 12:16:26 -0800 
+
+vyos-world (1.2.0-5) unstable; urgency=medium
+
+  * T742: Add accel-ppp as replacement for rp-pppoe
+
+ -- hagbard <vyosdev@derith.de>  Fri, 09 Nov 2018 09:43:45 -0800
+
+vyos-world (1.2.0-4) unstable; urgency=medium
+
+  * T835: adding vyos-accel-ppp
+
+ -- hagbard <vyosdev@derith.de>  Tue, 06 Nov 2018 10:39:46 -0800
+
 vyos-world (1.2.0-3) unstable; urgency=medium
 
   * Remove dependency on vyatta-op-dhcp-server.
