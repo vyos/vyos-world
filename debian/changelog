@@ -1,3 +1,9 @@
+vyos-world (1.2.0-7) unstable; urgency=medium
+
+  * vyos-vmwaretools-scripts added
+
+ -- hagbard <vyosdev@derith.de>  Thu, 17 Jan 2019 12:48:12 -0800
+
 vyos-world (1.2.0-6) unstable; urgency=medium
 
   * vyos-xe-guest-utilities added
