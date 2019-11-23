@@ -8,7 +8,9 @@ Standards-Version: 3.9.1
 Package: vyos-world
 Architecture: all
 Depends: vyatta-cfg-system,
+ vyatta-bash,
  vyatta-op,
+ vyatta-cfg,
  vyatta-config-mgmt,
  vyatta-config-migrate,
  vyatta-cfg-firewall,
@@ -31,7 +33,6 @@ Depends: vyatta-cfg-system,
  vyatta-ravpn,
  vyatta-wanloadbalance,
  vyatta-webproxy,
- vyatta-wireless,
  vyatta-wirelessmodem,
  vyatta-zone,
  vyos-intel-i40e,
