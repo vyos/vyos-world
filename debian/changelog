@@ -1,3 +1,9 @@
+vyos-world (1.2.4) unstable; urgency=low
+
+  * New release.
+
+ -- VyOS maintainers <maintainers@vyos.io>  Tue, 10 Dec 2019 23:40:07 +0200
+
 vyos-world (1.2.1) unstable; urgency=medium
 
   * Remove dependency on vyos-firmware, it's a part of the image build now.
@@ -63,4 +69,3 @@ vyos-world (1.0) unstable; urgency=low
   * Created the metapackage
 
  -- Daniil Baturin <daniil@baturin.org>  Tue, 26 Jan 2016 16:48:12 -0500
-
