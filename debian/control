@@ -36,6 +36,7 @@ Depends: vyatta-cfg-system,
  vyos-intel-ixgbe,
  vyos-intel-ixgbevf,
  vyos-nhrp,
+ vyos-salt-minion,
  vyos-1x
 Description: VyOS metapackage
  Installs everything required for VyOS to work
