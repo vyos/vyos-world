@@ -34,6 +34,7 @@ Depends: vyatta-cfg-system,
  vyos-intel-igb,
  vyos-intel-ixgbe,
  vyos-intel-ixgbevf,
+ vyos-intel-iavf,
  vyos-nhrp,
  vyos-salt-minion,
  vyos-1x
