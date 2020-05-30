@@ -32,6 +32,7 @@ Depends: vyatta-cfg-system,
  vyos-intel-ixgbe,
  vyos-intel-ixgbevf,
  vyos-intel-iavf,
+ vyos-intel-qat,
  vyos-nhrp,
  vyos-1x
 Description: VyOS metapackage
