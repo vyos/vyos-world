@@ -26,13 +26,6 @@ Depends: vyatta-cfg-system,
  vyatta-wanloadbalance,
  vyatta-webproxy,
  vyatta-zone,
- vyos-intel-i40e,
- vyos-intel-i40evf,
- vyos-intel-igb,
- vyos-intel-ixgbe,
- vyos-intel-ixgbevf,
- vyos-intel-iavf,
- vyos-intel-qat,
  vyos-nhrp,
  vyos-1x
 Description: VyOS metapackage
