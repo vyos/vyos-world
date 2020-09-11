@@ -1,3 +1,9 @@
+vyos-world (1.2.6) unstable; urgency=low
+
+  * New release.
+
+ -- VyOS maintainers <maintainers@vyos.io>  Fri, 11 Sep 2020 04:38:34 +0300
+
 vyos-world (1.2.5) unstable; urgency=low
 
   * New release.
