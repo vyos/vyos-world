@@ -24,7 +24,6 @@ Depends: vyatta-cfg-system,
  vyatta-conntrack,
  vyatta-conntrack-sync,
  vyatta-wanloadbalance,
- vyatta-webproxy,
  vyatta-zone,
  vyos-nhrp,
  vyos-1x
