@@ -20,7 +20,6 @@ Depends: vyatta-cfg-system,
  vyatta-conntrack,
  vyatta-wanloadbalance,
  vyatta-zone,
- vyos-nhrp,
  vyos-1x
 Description: VyOS metapackage
  Installs everything required for VyOS to work
