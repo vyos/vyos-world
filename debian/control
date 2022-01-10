@@ -15,7 +15,6 @@ Depends: vyatta-cfg-system,
  vyatta-cfg-qos,
  vyatta-op-qos,
  vyatta-cluster,
- vyatta-conntrack,
  vyatta-wanloadbalance,
  vyos-1x
 Description: VyOS metapackage
