@@ -12,7 +12,6 @@ Depends: vyatta-cfg-system,
  vyatta-op,
  vyatta-cfg,
  vyatta-config-mgmt,
- vyatta-op-qos,
  vyatta-cluster,
  vyatta-wanloadbalance,
  vyos-1x
