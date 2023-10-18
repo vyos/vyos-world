@@ -11,7 +11,6 @@ Depends: vyatta-cfg-system,
  vyatta-bash,
  vyatta-op,
  vyatta-cfg,
- vyatta-cluster,
  vyatta-wanloadbalance,
  vyos-1x
 Description: VyOS metapackage
